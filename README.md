@@ -3,7 +3,7 @@
 
 ### 입력 및 출력화면
 
-![문장출력](/string-edit/img/03.PNG) <br/>
+![문장출력](/string-edit/img/03.PNG) <br/><br/><br/>
 ![문장출력](string-edit/img/02.PNG) <br/>
 
 가정: 
@@ -20,3 +20,5 @@
 ### 입력 및 출력화면
 
 ![문장출력](/string-edit/img/01.PNG) <br/>
+
+ArrayList에 컴퓨터와 유저의 숫자를 담고 contains메소드를 이용해 구현
